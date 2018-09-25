@@ -112,7 +112,7 @@ return [
         [
             'text' => 'Tab1',
             'url' => '#',
-            'icon' => 'user'
+            'icon' => 'user',
             'submenu' => [
                 [
                     'text' => 'Sub Tab 1',
