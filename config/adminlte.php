@@ -111,25 +111,30 @@ return [
         'MAIN NAVIGATION',
         [
             'text' => 'Tab1',
-            'url' => 'javascript::void(0)',
+            'url' => '#',
+            'icon' => 'user'
             'submenu' => [
                 [
                     'text' => 'Sub Tab 1',
-                    'url'  => 'javascript::void(0)',
+                    'url'  => '#',
+                    'icon' => 'user'
                 ],
                 [
                     'text' => 'Sub Tab 1',
-                    'url'  => 'javascript::void(0)',
+                    'url'  => '#',
+                    'icon' => 'user'
                 ],
             ],
         ],
         [
             'text' => 'Tab2',
-            'url' => 'javascript::void(0)',
+            'url' => '#',
+            'icon' => 'user'
         ],
         [
             'text' => 'Tab3',
-            'url' => 'javascript::void(0)',
+            'url' => '#',
+            'icon' => 'user'
         ],
         
         'ACCOUNT SETTINGS',
